@@ -1,0 +1,49 @@
+<!Doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport"width="device-width" initial-scale=1.0>
+        <link rel="stylesheet" href="style.css">
+        <title>examination</title>
+    <body>
+<div class="header">
+    <div class="container">
+    <ul>
+       <li><a href="#">Purchase items</li>
+        <p>this is the list of itemsthat </p>
+       <li><th>telivision</th></li>
+       <li><th>mobilephones</th></li>
+       <li><th>other appliences</th></li>
+    </ul>
+</div>
+<div class="header">
+    <div class="container>"
+    <ul>
+        <tr>
+        <h1> list of vendors</h1>
+        <li><td> vendor1</td></li>
+        <li><td> vendor2</td></li>
+        <li><td> vendor4</td></li>
+        </tr>
+    </ul> 
+    <div class="price" >
+        <ul>
+            <tr>
+                <h1>prices</h1>
+                <li><td> 100000</td></li>
+                <li<td>200000</td></li>
+            </tr>
+        </ul>
+    </div>
+</div>
+</nav>
+<script src="script.js">
+
+</script>
+<footer>
+    
+</footer>
+
+</head>
+</body>
+</html>
